@@ -28,14 +28,6 @@ It provides a clean graphical interface for performing basic mathematical operat
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of the calculator interface here.
-
-![PyCalc Preview](screenshot.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
